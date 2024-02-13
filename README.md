@@ -1,4 +1,4 @@
 # my-demo1
-first demo repo
+First Demo Repo
 <br>
-author - Priyam Mondal
+Author - Priyam Mondal
